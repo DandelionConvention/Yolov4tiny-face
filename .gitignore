@@ -1,0 +1,9 @@
+/logs
+/data
+/mnist
+/originalPics
+/runs
+/FDDB-folds
+.idea
+/model_data
+/widerface_evaluate
